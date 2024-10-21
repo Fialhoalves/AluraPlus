@@ -196,4 +196,16 @@ body{
     .dispositivos{
         flex-direction: column;
     }
+
+    .dispositivos__lista{
+        display: block;
+    }
+
+    .rodape{
+        flex-direction: column;
+    }
+
+    .rodape__lista{
+        display: block;
+    }
 }
